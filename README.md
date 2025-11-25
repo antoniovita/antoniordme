@@ -27,7 +27,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian and learning German**.
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-  <a href="https://expo.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=expo" width="40" height="40"/></a>
+  <a href="https://expo.dev/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1940486720190820352/7gl2X1b2_400x400.jpg" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
