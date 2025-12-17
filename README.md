@@ -6,7 +6,7 @@
 ### 💡 About Me
 
 I'm a **Computer Science student at PUC-Rio**, awarded a **merit-based scholarship** for academic excellence.  
-Currently pursuing an **Additional Major in Data Science**, focusing on **data analysis**, **machine learning**, and **software engineering**.  
+Currently pursuing an **Additional Major in Data Science**, focusing on **data analysis**, **machine learning**, **web3** and **software engineering**.  
 
 I have hands-on experience in **web and mobile development** using **TypeScript**, **React**, **React Native (Expo)**, **NestJS**, and **Express**, along with experience in **Python**, **Java (Spring Boot)**, and **Swift (SwiftUI)**.  
 During my **Summer Job at BTG Pactual**, I built **automation and efficiency solutions** using **Python**, **React**, and **AWS** services.  
@@ -35,7 +35,8 @@ Fluent in **Portuguese, English, French, Spanish, Italian and learning German**.
   <a href="https://rancher.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
   <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-  <a href="https://www.uipath.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/uipath.svg" width="40" height="40" style="filter: invert(50%);"/></a>
+  <a href="https://www.uipath.com/" target="_blank"><img src="https://img.favpng.com/22/3/21/uipath-logo-ypTy1GHF.jpg" width="40" height="40" style="filter: invert(50%);"/></a>
+  <a href="https://www.soliditylang.org" target="_blank"><img src="https://www.svgrepo.com/show/374088/solidity.svg" width="40" height="40" style="filter: invert(50%);"/></a>
 </p>
 
 ---
