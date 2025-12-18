@@ -3,7 +3,7 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
 I'm a **Computer Science student at PUC-Rio**, awarded a **merit-based scholarship** for academic excellence.  
 Currently pursuing an **Additional Major in Data Science**, focusing on **web3** and **software engineering**.  
@@ -14,7 +14,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian and learning German**.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
@@ -41,7 +41,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian and learning German**.
 
 ---
 
-### 🌍 Let's Connect!
+### Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/antonio-vita-6177922b7" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
