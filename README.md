@@ -66,7 +66,7 @@ Fluent in **Portuguese, English, French, Spanish, Italian**, and currently learn
   <tr>
     <th align="left">DevOps & Cloud</th>
     <td>
-      <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36"/></a>
+      <a href="https://aws.amazon.com/"><img src="https://s3.us-west-2.amazonaws.com/content.podia.com/8jo3atdj7sj3s641ee9r03cv152u" width="36"/></a>
       <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/></a>
     </td>
   </tr>
